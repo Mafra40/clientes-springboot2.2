@@ -19,7 +19,7 @@ export class HelloComponet { //export torna a classe visível para outros compon
     
 }
 
- class Cliente{
+ class Cliente{ //teste
     nome: string;
     idade: number;
     constructor(pNome: string , pIdade: number){
