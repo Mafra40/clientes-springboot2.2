@@ -1,3 +1,4 @@
+//CLASSE PRINCIPAL QUE INICIALIZA O APP
 import { Component } from '@angular/core';
 
 @Component({
